@@ -1,0 +1,22 @@
+"""
+  Este es un comentario, la web es la siguiente:
+  https://www.python.org/
+"""
+# Este es un comentario de una sola linea
+'''
+Este atambien es un comentario de varias lineas en python
+'''
+variable1 = 'Hola mundo'
+variable1 = 'Cambio de variable'
+VARIABLE1 = 'Mi constante'      # Por convencion internacional si esta escrito en mayuscula se representa como constante
+# tipos de datos
+dato_int = 1
+dato_float = 1.5
+dato_bool = true
+dato_bool = false
+dato_str = 'Cadena de texto'
+
+print(Hola soy python)
+print(type(dato_float))
+print(type(dato_bool))
+print(type(dato_str))
